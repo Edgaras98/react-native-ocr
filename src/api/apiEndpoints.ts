@@ -1,0 +1,1 @@
+export const OCR_API_ENDPOINT = "https://api.apilayer.com/image_to_text/upload";
